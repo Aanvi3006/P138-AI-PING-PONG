@@ -1,0 +1,17 @@
+body
+{
+position: center;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#myModal,.modal-body{
+    color: antiquewhite;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+}
